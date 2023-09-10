@@ -8,7 +8,7 @@ I'm Subhodeep Bakshi, a Mechanical Engineer with a Master's degree from the Univ
 
 ## My Projects
 
-- [Project 1](project1.md)
+- [Project 1](project1/project1.md)
 - [Project 2](project2.md)
 
 ## Contact
